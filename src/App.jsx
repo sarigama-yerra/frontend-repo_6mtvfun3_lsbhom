@@ -14,7 +14,7 @@ function App() {
           <a href="#" className="text-white font-semibold tracking-tight">SOLYRA SYSTEMS LTD</a>
           <nav className="hidden md:flex items-center gap-6 text-sm text-slate-300">
             <a href="#offerings" className="hover:text-white">What We Offer</a>
-            <a href="#" className="hover:text-white">How It Works</a>
+            <a href="#how-it-works" className="hover:text-white">How It Works</a>
             <a href="#contact" className="hover:text-white">Contact</a>
           </nav>
           <a href="#contact" className="rounded-lg bg-white/10 px-3 py-1.5 text-sm text-white hover:bg-white/15">Get Started</a>

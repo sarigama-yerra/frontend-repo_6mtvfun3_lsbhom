@@ -7,7 +7,7 @@ function HowItWorks() {
   ];
 
   return (
-    <section className="relative bg-slate-950 py-20 text-white">
+    <section id="how-it-works" className="relative bg-slate-950 py-20 text-white">
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_bottom_right,rgba(8,145,178,0.08),transparent_55%)]"></div>
       <div className="relative mx-auto max-w-6xl px-6">
         <h2 className="text-3xl sm:text-4xl font-semibold tracking-tight">How It Works</h2>
